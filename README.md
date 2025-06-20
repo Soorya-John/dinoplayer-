@@ -1,4 +1,4 @@
-A simple game console using arduino nano/promini + sh1106 1.3' display that plays the chrome dino game
+A simple game console using arduino nano/promini + sh1106 1.3' display that plays the chrome dino game { N0T MY OWN CODE ALL THANKS TO ALEX IM JUS DESIGNING HARDWERE }
 
 1- uncomment the display type you are going to use 
 2- upload the code 
@@ -10,4 +10,7 @@ A4 is Serial Data & A5 is serial clock
 
 
 ![replaced 1k](https://github.com/user-attachments/assets/4f09bd53-aaf2-4c2a-9cfd-5bd6f58aee31)
+
 this is what it should look like 
+
+
