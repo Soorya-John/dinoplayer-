@@ -9,7 +9,8 @@ A simple game console using arduino nano/promini + sh1106 1.3' display that play
 A4 is Serial Data & A5 is serial clock 
 
 
-![replaced 1k](https://github.com/user-attachments/assets/4f09bd53-aaf2-4c2a-9cfd-5bd6f58aee31)
+![replaced ![sch-sh1106](https://github.com/user-attachments/assets/c806dae0-2a1b-4d97-a558-2eaaafca5938)
+1k](https://github.com/user-attachments/assets/4f09bd53-aaf2-4c2a-9cfd-5bd6f58aee31)
 
 this is what it should look like 
 
