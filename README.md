@@ -14,4 +14,8 @@ A4 is Serial Data & A5 is serial clock
 
 this is what it should look like 
 
+![WhatsApp Image 2025-07-07 at 23 19 11_76a36930](https://github.com/user-attachments/assets/d15015f9-6934-4044-bdcb-cad4f5507c66)
+![WhatsApp Image 2025-07-07 at 23 19 10_ceb0997a](https://github.com/user-attachments/assets/ba20a567-995a-4081-9853-d8fff7b14032)
+![WhatsApp Image 2025-07-07 at 23 19 10_bfc2d2c2](https://github.com/user-attachments/assets/23237203-4f64-4916-ae0b-bb746e0b7876)
+![WhatsApp Image 2025-07-07 at 23 19 09_3e08c7ff](https://github.com/user-attachments/assets/5e834eba-a2b7-48da-bb9a-983639c435b0)
 
